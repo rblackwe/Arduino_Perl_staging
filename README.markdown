@@ -46,3 +46,8 @@ By submitting any code, you're also agreeing that your code is covered by the MI
 ## Misc
 
 * Clearer versioning on the demos, rather than "All bar Opera", should include last version to support feature, i.e. Opera 10.10b, Chrome 4 dev, Safari 4.0, etc.
+
+
+## Credits
+
+* This format was adapted from http://github.com/remy/html5demos.
