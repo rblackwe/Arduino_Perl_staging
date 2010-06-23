@@ -1,5 +1,8 @@
-GitHub Flavored Markdown
+Examples of Perl and Arduino
 ================================
+
+
+These are examples I am putting together for working with [Perl](http://perl.org)  and an [Arduino](http://arduino.cc).
 
 *View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
 
